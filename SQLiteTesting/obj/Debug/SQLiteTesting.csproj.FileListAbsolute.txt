@@ -1,0 +1,17 @@
+D:\2016 C# Work\SQLiteTesting\SQLiteTesting\bin\Debug\SQLiteTesting.exe.config
+D:\2016 C# Work\SQLiteTesting\SQLiteTesting\bin\Debug\SQLiteTesting.exe
+D:\2016 C# Work\SQLiteTesting\SQLiteTesting\bin\Debug\SQLiteTesting.pdb
+D:\2016 C# Work\SQLiteTesting\SQLiteTesting\bin\Debug\EntityFramework.dll
+D:\2016 C# Work\SQLiteTesting\SQLiteTesting\bin\Debug\EntityFramework.SqlServer.dll
+D:\2016 C# Work\SQLiteTesting\SQLiteTesting\bin\Debug\System.Data.SQLite.dll
+D:\2016 C# Work\SQLiteTesting\SQLiteTesting\bin\Debug\System.Data.SQLite.EF6.dll
+D:\2016 C# Work\SQLiteTesting\SQLiteTesting\bin\Debug\System.Data.SQLite.Linq.dll
+D:\2016 C# Work\SQLiteTesting\SQLiteTesting\bin\Debug\EntityFramework.xml
+D:\2016 C# Work\SQLiteTesting\SQLiteTesting\bin\Debug\EntityFramework.SqlServer.xml
+D:\2016 C# Work\SQLiteTesting\SQLiteTesting\bin\Debug\System.Data.SQLite.xml
+D:\2016 C# Work\SQLiteTesting\SQLiteTesting\obj\Debug\SQLiteTesting.csprojResolveAssemblyReference.cache
+D:\2016 C# Work\SQLiteTesting\SQLiteTesting\obj\Debug\SQLiteTesting.Form1.resources
+D:\2016 C# Work\SQLiteTesting\SQLiteTesting\obj\Debug\SQLiteTesting.Properties.Resources.resources
+D:\2016 C# Work\SQLiteTesting\SQLiteTesting\obj\Debug\SQLiteTesting.csproj.GenerateResource.Cache
+D:\2016 C# Work\SQLiteTesting\SQLiteTesting\obj\Debug\SQLiteTesting.exe
+D:\2016 C# Work\SQLiteTesting\SQLiteTesting\obj\Debug\SQLiteTesting.pdb
